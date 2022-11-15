@@ -9,8 +9,7 @@ scipy.sparse
 numpy
 math
 
-.
-.
-.
-I'm still working on the project
+#
+I'm still working on the project.
+#
 any comments and suggestions will be appreciated.
