@@ -47,7 +47,7 @@ class Document():
     with open ('Document_5.txt', 'r', encoding='utf-8') as file_5:
         lines = file_5.readlines()
     
-    files = Path('./Python').glob('*.txt')
+    files = Path('./').glob('*.txt')
     corpus = list()
     for file in files:
         corpus.append(file.read_text())
