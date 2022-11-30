@@ -14,6 +14,6 @@ math
 
 .
 
-I'm still working on the project.
+I'm still working on this project.
 
 any comments and suggestions will be appreciated.
